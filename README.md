@@ -2,7 +2,7 @@
 
 I am [Subrata Debnath](https://subrata6630.github.io), an entrepreneur, developer, and open-source enthusiast. I love and work with PHP, WordPress, Laravel, Vue, React, Node, and bash.
 
-I dabble with code, design, and DevOps, love to build products and solutions. I founded @Sbtechbd Technologies – a product company, where we empower small to medium businesses around the world with our software solutions.
+I dabble with code, design, and DevOps, love to build products and solutions. I founded [Sbtechbd Technologies] (https://sbtechbd.xyz/) – a product company, where we empower small to medium businesses around the world with our software solutions.
 
 - 👋 Hi, I’m @subrata6630
 - 👀 I’m interested in ...
