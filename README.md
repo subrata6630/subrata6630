@@ -19,5 +19,5 @@ Some of our products include:
 - [Sbtechbd POS] (https://pos.sbtechbd.xyz/login)
 - [Sbtechbd Multivendor] (https://mart.sbtechbd.xyz)
 - [Android and ios app Development]
-- [news app android] 
+- [News App Android] 
 
