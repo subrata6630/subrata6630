@@ -142,6 +142,14 @@ Some of our products include:
       height="40"
     />
   </a>
+ <a href="https://wordpress.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"
+      alt="wordpress"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
