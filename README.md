@@ -33,7 +33,7 @@ Some of our products include:
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=aaban-nayeem&label=Profile%20views&color=0e75b6&style=flat"
-    alt="aaban-nayeem"
+    alt="Subrata6630"
   />
 </p>
 
@@ -164,7 +164,7 @@ Some of our products include:
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aaban-nayeem&show_icons=true&locale=en&layout=compact"
-    alt="aaban-nayeem"
+    alt="Subrata-Debnath"
   />
 </p>
 
@@ -172,14 +172,14 @@ Some of our products include:
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=aaban-nayeem&show_icons=true&locale=en"
-    alt="aaban-nayeem"
+    alt="Subrata-Debnath"
   />
 </p>
 
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aaban-nayeem&"
-    alt="aaban-nayeem"
+    src="https://raw.githubusercontent.com/subrata6630/subrata6630/051c254859382204d82962e6cb10fa213eea5ee2/git.png"
+    alt="Subrata-Debnath"
   />
 </p>
