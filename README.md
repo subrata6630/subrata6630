@@ -171,7 +171,7 @@ Some of our products include:
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=aaban-nayeem&show_icons=true&locale=en"
+    src="https://raw.githubusercontent.com/subrata6630/subrata6630/051c254859382204d82962e6cb10fa213eea5ee2/git.png"
     alt="Subrata-Debnath"
   />
 </p>
@@ -179,7 +179,7 @@ Some of our products include:
 <p>
   <img
     align="center"
-    src="https://raw.githubusercontent.com/subrata6630/subrata6630/051c254859382204d82962e6cb10fa213eea5ee2/git.png"
+    src="https://camo.githubusercontent.com/ba32e0330d00e7c5354e93a38b80fe65e09893003b447e5e9bcf4f59b9a10286/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616162616e2d6e617965656d26"
     alt="Subrata-Debnath"
   />
 </p>
