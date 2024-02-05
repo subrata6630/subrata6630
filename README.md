@@ -1,5 +1,5 @@
 ![pride
-month](https://github.com/Aaban-Nayeem/Aaban-Nayeem/assets/87091983/4da3b47d-c4f2-401f-aa84-d28aa7196555)
+month](https://github.com/subrata6630/subrata6630/blob/main/subrata6630-cover.jpg)
 
 <h1 align="center">Hello there, I'm Subrata Debnath</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
