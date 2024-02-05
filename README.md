@@ -2,7 +2,7 @@
 month](https://github.com/subrata6630/subrata6630/blob/main/subrata6630-cover.jpg)
 
 <h1 align="center">Hello there, I'm Subrata Debnath</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 ### Hi there 👋 I am [Subrata Debnath](https://subrata6630.github.io), 
 an entrepreneur, developer, and open-source enthusiast. I love and work with PHP,
