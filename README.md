@@ -1,5 +1,4 @@
-![pride
-month](https://github.com/subrata6630/subrata6630/blob/main/subrata6630-cover.jpg)
+
 
 <h1 align="center">Hello there, I'm Subrata Debnath</h1>
 <h3 align="center">Full Stack Web Developer</h3>
