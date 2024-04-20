@@ -22,11 +22,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Some of our products include: 
-- [Sbtechbd POS] 
-- [Sbtechbd Multivendor E-commerce]
-- [Android and IOS App Development]
 - [WordPress Plugins Development]
-  
+- [WordPress Theme Development]
+ -[Laravel Software Development] 
 
 
 <p align="left">
