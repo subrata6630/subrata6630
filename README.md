@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 Some of our products include: 
 - [WordPress Plugins Development]
 - [WordPress Theme Development]
- -[Laravel Software Development] 
+- [Laravel Software Development] 
 
 
 <p align="left">
