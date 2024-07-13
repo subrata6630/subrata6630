@@ -23,10 +23,10 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Services I Offer:
 
-WooCommerce Development: Customization, plugin development, theme integration, and optimization.
-WordPress Development: Theme development, custom plugins, site migration, and performance enhancement.
-Technical Support: Troubleshooting, bug fixing, and consultation to resolve any issues swiftly.
-Product Management: Strategic planning, product lifecycle management, and execution for seamless product delivery.
+ - WooCommerce Development: Customization, plugin development, theme integration, and optimization.
+ - WordPress Development: Theme development, custom plugins, site migration, and performance enhancement.
+ - Technical Support: Troubleshooting, bug fixing, and consultation to resolve any issues swiftly.
+ - Product Management: Strategic planning, product lifecycle management, and execution for seamless product delivery.
 
 
 
