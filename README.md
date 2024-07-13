@@ -12,10 +12,10 @@ to medium businesses worldwide with our software solutions.
 
 - 👋 Hi, I’m @subrata6630
  - 👀 I’m interested in ...
- - 🌱 I’m currently learning ...
+ - 🌱 I’m currently learning ...@DevOps
  - 💞️ I’m looking to collaborate on ...
- - 📫 How to reach me ...
- -  ❤️ WordPress Core Contributor [Subrata Debnath](https://profiles.wordpress.org/subrata-deb-nath)
+ - 📫 How to reach me ...[Upwork] (https://www.upwork.com/freelancers/~01b0e4e5e6a976889b)
+ - ❤️ WordPress Core Contributor [Subrata Debnath](https://profiles.wordpress.org/subrata-deb-nath)
 
 <!---
 subrata6630/subrata6630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
