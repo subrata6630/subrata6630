@@ -14,7 +14,7 @@ to medium businesses worldwide with our software solutions.
  - 👀 I’m interested in ...
  - 🌱 I’m currently learning ...@DevOps
  - 💞️ I’m looking to collaborate on ...
- - 📫 How to reach me ...[Upwork] (https://www.upwork.com/freelancers/~01b0e4e5e6a976889b)
+ - 📫 How to reach me ...[Upwork](https://www.upwork.com/freelancers/~01b0e4e5e6a976889b)
  - ❤️ WordPress Core Contributor [Subrata Debnath](https://profiles.wordpress.org/subrata-deb-nath)
 
 <!---
