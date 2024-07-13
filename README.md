@@ -21,10 +21,13 @@ to medium businesses worldwide with our software solutions.
 subrata6630/subrata6630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Services I Offer:
 
-Some of our products include: 
-- [WordPress Plugins Development]
-- [WordPress Theme Development]
+WooCommerce Development: Customization, plugin development, theme integration, and optimization.
+WordPress Development: Theme development, custom plugins, site migration, and performance enhancement.
+Technical Support: Troubleshooting, bug fixing, and consultation to resolve any issues swiftly.
+Product Management: Strategic planning, product lifecycle management, and execution for seamless product delivery.
+
 
 
 
