@@ -166,13 +166,7 @@ Some of our products include:
   />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://raw.githubusercontent.com/subrata6630/subrata6630/051c254859382204d82962e6cb10fa213eea5ee2/git.png"
-    alt="Subrata-Debnath"
-  />
-</p>
+
 
 <p>
   <img
