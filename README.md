@@ -179,13 +179,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://camo.githubusercontent.com/73367f774697f572e99e79d72828ed749bf0870bfc1340c5c2d0704149843c48/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686f766f616c77617973266c61796f75743d636f6d70616374"
-    alt="Subrata-Debnath"
-  />
-</p>
+
 
 
 
